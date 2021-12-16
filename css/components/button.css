@@ -1,0 +1,12 @@
+.btn-red{
+	margin: 20px 0px;
+	background: rgb(228,99,92);
+	padding: 10px 20px;
+	border-radius: 3px;
+	font-family: 'Baloo Bhaijaan 2';
+}
+
+.btn-red:hover {
+	background: black;
+	color: rgb(228,99,92);
+}
